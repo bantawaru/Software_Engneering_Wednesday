@@ -1,0 +1,8 @@
+John=3 #creating a variable for John with the number of apples he has
+Mary=5 #Creating a variable for Mary with the number of apples she has
+Adam=6 #creating a variable for Adam with the number of apples he has
+print(John, Mary, Adam) 
+total_apples=John+Mary+Adam #creating a new variable total_apples by adding all variable
+print(total_apples) #this command executes total no of apples
+
+
